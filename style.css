@@ -1,0 +1,16 @@
+#timer {
+  font-size: 40px;
+  font-weight: bold;
+  padding-left: 30px;
+}
+
+#stopwatch_ctrl {
+  margin-top: 30px;
+}
+
+
+button{
+  height: 50px;
+  width: 80px;
+  font-weight: bold;
+}
